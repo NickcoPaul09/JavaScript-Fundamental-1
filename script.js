@@ -2,7 +2,7 @@ let js = "amazing";
 12 + 10 + 44 - 10;
 console.log(12 + 10 + 44 - 10);
 
-//This is JavaScript journey begin
+// My JavaScript journey begin right here!
 
 //JavaScript's Values & Variables
 console.log("Nickco");
@@ -33,3 +33,13 @@ let lastJob = "Teacher";
 // Don't
 let job1 = "Programmer";
 let job2 = "Teacher";
+
+// Assignment #1 - Values & Variables
+
+let myCountry = "Myanmar";
+let myContinent = "South East Asia";
+let myPopulation = "60 millions";
+
+console.log(myCountry);
+console.log(myContinent);
+console.log(myPopulation);
